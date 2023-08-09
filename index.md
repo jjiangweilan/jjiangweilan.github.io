@@ -1,2 +1,2 @@
 Hello World
-![test image](img/test.png)
+![test image](./img/test.png)
